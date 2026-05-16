@@ -1,0 +1,13 @@
+Acción,Modelo,RMSE,RMSE % precio
+AAPL,GBM,,
+AAPL,Heston,,
+AAPL,Merton,,
+AMZN,GBM,,
+AMZN,Heston,,
+AMZN,Merton,,
+JPM,GBM,,
+JPM,Heston,,
+JPM,Merton,,
+XOM,GBM,,
+XOM,Heston,,
+XOM,Merton,,

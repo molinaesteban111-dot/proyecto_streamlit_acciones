@@ -1,0 +1,5 @@
+Acción,Modelo ganador,RMSE GBM,RMSE Heston,RMSE Merton,Precio actual,Precio esperado P50,Rango inferior P5,Rango superior P95,Rango 5%-95%,Valorización esperada %,Amplitud rango %
+AAPL,,,,,,,,,,,
+AMZN,,,,,,,,,,,
+JPM,,,,,,,,,,,
+XOM,,,,,,,,,,,
