@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Taller Streamlit: Predicción de Acciones sin Bola de Cristal
 
 Proyecto para **Valoración de Activos**. La aplicación compara tres modelos de simulación de precios de acciones:
@@ -129,6 +128,3 @@ Una vez identificado el modelo ganador por acción, se simula el próximo mes, p
 ## Advertencia ejecutiva
 
 El proyecto no promete rentabilidades. Presenta escenarios simulados con base en supuestos estadísticos y datos históricos. Los precios reales pueden cambiar por eventos que no están capturados completamente por GBM, Heston o Merton.
-=======
-# proyecto_streamlit_acciones
->>>>>>> e5516756107fad3e3980545b14994945c743088b
